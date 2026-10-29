@@ -54,3 +54,9 @@ Los resultados corresponden exclusivamente a datos ficticios creados para este p
 Resumen general de indicadores obtenidos mediante consultas SQL sobre la base de datos ficticia.
 
 ![Resumen general de indicadores SQL](resumen_general_sql.png)
+
+### Análisis de operaciones por canal
+
+Comparación del importe bruto operado y su participación porcentual por canal bancario.
+
+![Análisis de operaciones por canal](analisis_canales_sql.png)
