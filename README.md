@@ -37,3 +37,15 @@ Todos los datos utilizados son ficticios y fueron creados exclusivamente con fin
 
 ## Alcance
 Proyecto de práctica orientado al desarrollo de habilidades de análisis de datos para puestos junior. Los resultados no representan información real de una entidad financiera.
+
+## Resultados del análisis
+
+- **Base de datos:** 5 clientes, 6 cuentas y 12 movimientos ficticios.
+- **Período analizado:** del 1 al 28 de julio de 2025.
+- **Análisis por tipo de operación:** cantidad, importe total e importe promedio.
+- **Análisis por canal:** participación de sucursales, cajeros automáticos y banca digital.
+- **Análisis por cliente y cuenta:** comparación por segmento, provincia y tipo de cuenta.
+- **Análisis temporal:** agregación mensual y cálculo de importes acumulados mediante funciones de ventana.
+- **Calidad de datos:** controles de importes, fechas y relaciones entre clientes, cuentas y movimientos.
+
+Los resultados corresponden exclusivamente a datos ficticios creados para este proyecto educativo.
