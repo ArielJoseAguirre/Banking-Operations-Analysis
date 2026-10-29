@@ -60,3 +60,9 @@ Resumen general de indicadores obtenidos mediante consultas SQL sobre la base de
 Comparación del importe bruto operado y su participación porcentual por canal bancario.
 
 ![Análisis de operaciones por canal](analisis_canales_sql.png)
+
+### Análisis por segmento de clientes
+
+Comparación de la cantidad de clientes, operaciones e importes registrados para los segmentos Individuos y Negocios.
+
+![Análisis por segmento de clientes](analisis_segmentos_clientes.png)
