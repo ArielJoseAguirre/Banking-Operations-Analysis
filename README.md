@@ -49,3 +49,8 @@ Proyecto de práctica orientado al desarrollo de habilidades de análisis de dat
 - **Calidad de datos:** controles de importes, fechas y relaciones entre clientes, cuentas y movimientos.
 
 Los resultados corresponden exclusivamente a datos ficticios creados para este proyecto educativo.
+## Captura de resultados SQL
+
+Resumen general de indicadores obtenidos mediante consultas SQL sobre la base de datos ficticia.
+
+![Resumen general de indicadores SQL](resumen_general_sql.png)
